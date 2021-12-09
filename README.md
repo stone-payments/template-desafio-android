@@ -1,1 +1,1 @@
-# Android template challenge
+# Android app template for android challenge

@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/template-desafio-android.iml" filepath="$PROJECT_DIR$/.idea/template-desafio-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bootstrap.iml" filepath="$PROJECT_DIR$/.idea/modules/bootstrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/bootstrap.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/bootstrap.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/bootstrap.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/bootstrap.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/bootstrap.features.home.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/bootstrap.features.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/bootstrap.platform.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/bootstrap.platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/domain/bootstrap.platform.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/domain/bootstrap.platform.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/foundation/bootstrap.platform.foundation.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/foundation/bootstrap.platform.foundation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/foundation/common/bootstrap.platform.foundation.common.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/foundation/common/bootstrap.platform.foundation.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/foundation/design/bootstrap.platform.foundation.design.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/foundation/design/bootstrap.platform.foundation.design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/foundation/networking/bootstrap.platform.foundation.networking.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/foundation/networking/bootstrap.platform.foundation.networking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/platform/testing/bootstrap.platform.testing.iml" filepath="$PROJECT_DIR$/.idea/modules/platform/testing/bootstrap.platform.testing.iml" />
     </modules>
   </component>
 </project>
