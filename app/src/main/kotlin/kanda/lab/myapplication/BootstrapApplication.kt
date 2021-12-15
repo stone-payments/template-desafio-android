@@ -17,7 +17,7 @@ class BootstrapApplication : Application(), DIAware {
 
         addConfig {
             bindProvider<Context> { this@BootstrapApplication }
-            bindProvider(tag = InjectionTags.BASE_URL) { "https://api.blockchain.info/" }
+            bindProvider(tag = InjectionTags.BASE_URL) { "https://rickandmortyapi.com/" }
         }
     }
 }
